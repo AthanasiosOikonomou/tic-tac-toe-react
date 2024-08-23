@@ -43,14 +43,14 @@ http://localhost:3000
 
 ## Usage
 
-Start a New Game: Select the mode and begin playing.
-Make a Move: Click on an empty square to mark it with your symbol (X or O).
-Win the Game: Align three of your symbols in a row, column, or diagonal to win.
-Restart the Game: Use the reset button to start a new game.
+- Start a New Game: Select the mode and begin playing.
+- Make a Move: Click on an empty square to mark it with your symbol (X or O).
+- Win the Game: Align three of your symbols in a row, column, or diagonal to win.
+- Restart the Game: Use the reset button to start a new game.
 
 ## Technologies Used
 
-React: A JavaScript library for building user interfaces.
-Vite: A build tool that provides a fast development environment.
-CSS3: Styling for the application.
-JavaScript (ES6+): Logic and interactivity.
+- React: A JavaScript library for building user interfaces.
+- Vite: A build tool that provides a fast development environment.
+- CSS3: Styling for the application.
+- JavaScript (ES6+): Logic and interactivity.
