@@ -54,3 +54,7 @@ http://localhost:3000
 - Vite: A build tool that provides a fast development environment.
 - CSS3: Styling for the application.
 - JavaScript (ES6+): Logic and interactivity.
+
+## Credits
+
+Special thanks to Maximilian Schwarzmüller and his udemy courses.
